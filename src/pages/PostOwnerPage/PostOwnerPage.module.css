@@ -1,0 +1,23 @@
+.container {
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  margin-bottom: 1rem;
+}
+
+.loading {
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+
+.title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: #343a40;
+}
+
+.info {
+  font-size: 1rem;
+  color: #495057;
+}

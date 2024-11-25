@@ -1,0 +1,28 @@
+.container {
+  padding: 1rem;
+}
+
+.loading {
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.links a {
+  text-decoration: none;
+  color: #007bff;
+  padding: 0.5rem 1rem;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.links a:hover {
+  background-color: #007bff;
+  color: #fff;
+}

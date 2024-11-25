@@ -1,0 +1,35 @@
+.container {
+  padding: 1rem;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.postList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.postItem {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
+
+.postItem h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.postItem a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.postItem a:hover {
+  text-decoration: underline;
+}
